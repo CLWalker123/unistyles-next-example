@@ -113,3 +113,8 @@ yarn-error.log
 
 vite.config.*.timestamp*
 vitest.config.*.timestamp*
+apps/mobile-e2e/artifacts
+
+# Next.js
+.next
+out
